@@ -11,8 +11,8 @@
 
 
 .canvasContainer {
-  height: 80vh;
-  width: 40vh;
+  /*height: 80vh;*/
+  /*width: 40vh;*/
   display: flex;
   justify-content: center;
   align-items: center;

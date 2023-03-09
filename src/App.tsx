@@ -1,10 +1,10 @@
 import React from 'react';
 import '../src/index.css'
-import {Workspace} from "./component/Workspace/Workspace";
+import {HomePage} from "./component/Workspace/HomePage";
 
 function App() {
   return (
-    <Workspace/>
+    <HomePage/>
   );
 }
 

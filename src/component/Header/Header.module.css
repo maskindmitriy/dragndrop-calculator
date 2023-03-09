@@ -1,5 +1,4 @@
 .headerContainer {
-  margin-right: 5rem;
   display: flex;
   flex-direction: row;
   justify-content: end;
@@ -24,8 +23,6 @@
   line-height: 15px;
 }
 
-
-
 .header button:focus {
   background-color: #FFFFFF;
   border: 1px solid #E2E3E5;
@@ -47,13 +44,36 @@
   width: 20px;
   height: 20px;
   padding-left: 20px;
+  padding-top: 1px;
 }
+
+.eyeImgActive {
+  background-image: url('/src/asset/eye-active.svg');
+  background-repeat : no-repeat;
+  width: 20px;
+  height: 20px;
+  padding-left: 20px;
+  padding-top: 1px;
+}
+
 .constructorImg {
   background-image: url('/src/asset/constructor.svg');
   background-repeat : no-repeat;
   width: 20px;
   height: 20px;
   padding-left: 20px;
+  padding-top: 1px;
 }
+
+.constructorImgActive {
+  background-image: url('/src/asset/constructor-active.svg');
+  background-repeat : no-repeat;
+  width: 20px;
+  height: 20px;
+  padding-left: 20px;
+  padding-top: 1px;
+}
+
+
 
 

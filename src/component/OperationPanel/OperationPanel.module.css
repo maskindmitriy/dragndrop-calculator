@@ -22,3 +22,8 @@
   font-weight: 500;
   font-size: 14px;
 }
+
+.opBtn:active {
+  color: #FFFFFF;
+  background-color: #5D5FEF;
+}
