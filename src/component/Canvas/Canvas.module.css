@@ -1,0 +1,39 @@
+.canvas {
+  width: 243px;
+  height: 448px;
+  border: 2px dashed #C4C4C4;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.canvasContainer {
+  height: 80vh;
+  width: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.mainParagraph {
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+  color: #5D5FEF;
+  margin-bottom: 4px;
+}
+
+.secParagraph {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #6B7280;
+  margin-bottom: 4px;
+}
